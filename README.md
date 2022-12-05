@@ -10,5 +10,6 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on firms that I can imrpove myself.
 - 🤔 I’m looking for help with how can I imrpove myself in different areas.
 - 📫 How to reach me: 
-[a link](https://www.linkedin.com/in/mansur-uyar-896a291b8/)
+- Gmail:ymansuruyar@gmail.com
+- [Linkedin](https://www.linkedin.com/in/mansur-uyar-896a291b8/)
 
