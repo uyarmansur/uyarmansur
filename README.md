@@ -5,7 +5,7 @@ Tehchnologies that I know;HTML, CSS, SCSS, JAVASCRIPT, REACTJS, REACT LIBRARIES 
 
 - 🔭 I’m currently working for a startup firm JobSwire
 - 🌱 I’m currently learning Agile-Scrum methodology,React libraries such as redux etc.
-- 👯 I’m looking to collaborate on firms that I can imrpove myself.
+- 👯 I’m looking to collaborate on firms that I can improve myself.
 - 🤔 I’m looking for help with how can I imrpove myself in different areas.
 - 📫 How to reach me: 
 - Gmail:ymansuruyar@gmail.com
