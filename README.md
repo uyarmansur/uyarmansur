@@ -1,13 +1,57 @@
-### Hi there 👋
-- I am a student who wants to improve himself in software industry and management. I have been practicing front end development almost 2 years. I joined some programs and earned some certificates from those, such as one in leadership. I am always striving to improve myself and searching for the right opportunities.I have ability to use any library that has documenteation.
-Tehchnologies that I know;HTML, CSS, SCSS, TAILWIND, JAVASCRIPT, REACTJS, NEXTJS, REACT NATIVE, REACT LIBRARIES SUCH AS REDUX... And a little bit Java.
+<h1 align="center">Hi there 👋, I'm Mansur Uyar</h1>
+<h3 align="center">Frontend-Oriented Full Stack Developer | Medipol University</h3>
 
+---
 
-- 🔭 I’m currently working as a frontend and mobile developer for Tulpar Yazılım.
-- 🌱 I’m currently learning Agile-Scrum methodology,React libraries such as redux toolkit etc.
-- 👯 I’m looking to collaborate on firms that I can improve myself.
-- 🤔 I’m looking for help with how can I imrpove myself in different areas.
-- 📫 How to reach me: 
-- [Gmail]:ymansuruyar@gmail.com
-- [Linkedin](https://www.linkedin.com/in/mansur-uyar-896a291b8/)
+### 🧠 About Me  
+I’m a passionate developer with nearly **3 years of hands-on experience** in designing and developing scalable, maintainable, and user-centric web applications.  
+My main focus is on crafting **clean, efficient, and reusable code** while ensuring a seamless user experience.  
+
+- 💻 Specialized in **JavaScript (ES6)**, **TypeScript**, and **React**  
+- 🎨 Strong background in **responsive design**, **SASS/LESS**, and **UI optimization**  
+- 🔗 Experienced in **RESTful API integration**  
+- 🧹 Strict follower of **Clean Code** and **best practices**  
+- 🔄 Proficient with **Git**, **GitHub**, and modern development workflows  
+- 🌱 Currently expanding my knowledge in **backend development** and **database design**  
+- 🏫 Working as a **Full Stack Developer at Medipol University**, contributing to digital transformation projects  
+
+---
+
+### 🚀 Tech Stack  
+#### Frontend  
+<div>
+  <img src="https://skillicons.dev/icons?i=js,ts,jquery,react,html,css,sass,bootstrap,tailwind" />
+</div>
+
+#### Backend & Database  
+<div>
+  <img src="https://skillicons.dev/icons?i=dotnet,cs,nodejs,expressjs,mssql,mongoDB" />
+</div>
+
+#### Tools & Workflow  
+<div>
+  <img src="https://skillicons.dev/icons?i=git,github,visualstudio,vscode,postman" />
+</div>
+
+---
+
+### 💡 Current Focus  
+I'm currently improving my backend and system design skills to become a **complete full stack developer** capable of handling every stage of modern web applications — from frontend to deployment.  
+I also enjoy **mentoring teammates**, sharing knowledge, and building software that makes a real difference.
+
+---
+
+### 📫 Contact Me  
+- 📧 [ymansuruyar@gmail.com](mailto:ymansuruyar@gmail.com)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/mansur-uyar-896a291b8/)  
+
+---
+
+### ⚡ Fun Fact  
+I believe **clean and well-structured code** is as satisfying as a perfectly designed UI. 😄
+
+---
+
+⭐️ *“Continuous learning and curiosity are the fuel of great developers.”*
+
 
