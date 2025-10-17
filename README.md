@@ -20,7 +20,7 @@ My main focus is on crafting **clean, efficient, and reusable code** while ensur
 ### 🚀 Tech Stack  
 #### Frontend  
 <div>
-  <img src="https://skillicons.dev/icons?i=js,ts,jquery,react,html,css,sass,bootstrap,tailwind" />
+  <img src="https://skillicons.dev/icons?i=js,ts,jquery,react,html,css,sass,bootstrap,tailwind,mui,reactnative,expo" />
 </div>
 
 #### Backend & Database  
