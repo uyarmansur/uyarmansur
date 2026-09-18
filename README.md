@@ -13,7 +13,7 @@ My main focus is on crafting **clean, efficient, and reusable code** while ensur
 - 🧹 Strict follower of **Clean Code** and **best practices**  
 - 🔄 Proficient with **Git**, **GitHub**, and modern development workflows  
 - 🌱 Currently expanding my knowledge in **backend development** and **database design**  
-- 🏫 Working as a **Full Stack Developer at Medipol University**, contributing to digital transformation projects  
+
 
 ---
 
